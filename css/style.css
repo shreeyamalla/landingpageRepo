@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+#box1{
+    border: 1px solid black;
+    color: rebeccapurple;
+    width: 150px;
+    height: 300px;
+}
+.firstdiv{
+    background-color: blue;
+    color: aliceblue;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 10px;
+    height: auto;
+width: auto;
+}
+.paragraph{
+    height: 200px;
+    width: 800px;
+}
+
